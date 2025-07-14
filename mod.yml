@@ -1881,6 +1881,38 @@ assets:
   method: copy
   source:
   - name: remastered\map\hb18.map\-66.dds
+- name: remastered\map\hb26.map\-88.dds
+  method: copy
+  source:
+  - name: remastered\map\hb26.map\-88.dds
+- name: remastered\map\hb26.map\-89.dds
+  method: copy
+  source:
+  - name: remastered\map\hb26.map\-89.dds
+- name: remastered\map\hb26.map\-96.dds
+  method: copy
+  source:
+  - name: remastered\map\hb26.map\-96.dds
+- name: remastered\map\hb26.map\-97.dds
+  method: copy
+  source:
+  - name: remastered\map\hb26.map\-97.dds
+- name: remastered\map\hb26.map\-114.dds
+  method: copy
+  source:
+  - name: remastered\map\hb26.map\-114.dds
+- name: remastered\map\hb26.map\-115.dds
+  method: copy
+  source:
+  - name: remastered\map\hb26.map\-115.dds
+- name: remastered\map\hb26.map\-122.dds
+  method: copy
+  source:
+  - name: remastered\map\hb26.map\-122.dds
+- name: remastered\map\hb26.map\-123.dds
+  method: copy
+  source:
+  - name: remastered\map\hb26.map\-123.dds
 - name: remastered\map\he00.map\-37.dds
   method: copy
   source:
