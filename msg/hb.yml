@@ -1019,47 +1019,6 @@
     {:unk13 18 01 46 00}{:unk08 01 01 06}Now, the book isn´t
 
     all that´s cherished...{:clear }This is for you, Roxas.
-- id: 20185
-  fr: >-
-    {:unk08 02 00 06}Tu peux défier Sora à nouveau,
-
-    mais sache qu'il est plus fort maintenant.
-
-    {:chardelay 33 00}Sans moi.
-
-    {:chardelay AD 00}C'est parti !
-  gr: >-
-    {:unk08 02 00 06}Möchtest du dich mit einer gestärkten
-
-    Datenrekonstruktion Sora' messen?
-
-    {:chardelay 33 00}Das lass ich lieber.
-
-    {:chardelay AD 00}Au ja! Auf in den Kampf!
-  it: >-
-    {:unk08 02 00 06}Combatti di nuovo con Sora,
-
-    ma attenzione, ora è più forte.
-
-    {:chardelay 33 00}Non ora.
-
-    {:chardelay AD 00}Non mi fa paura!
-  sp: >-
-    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
-
-    fuerte de Sora a partir de sus datos?
-
-    {:chardelay 33 00}Ahora no.
-
-    {:chardelay AD 00}¡A batirse tocan!
-  en: >-
-    {:unk08 02 00 06}Battle Sora again, but be warned--
-
-    he's stronger than before.
-
-    {:chardelay 33 00}Not right now.
-
-    {:chardelay AD 00}I'm ready for a fight!
 - id: 21483
   fr: >-
     {:delayandfade 07 B4}
