@@ -299,7 +299,7 @@
     Is that you...?{:delay 73 00}{:clear }Ventus?
 - id: 21411
   fr: >-
-    Non... Vous lui ressemblez, mais...{:delay B9 00}{:clear }Votre cœur n'est pas le vôtre.
+    Non... Vous lui ressemblez, mais...{:delay B9 00}{:clear }Votre coeur n'est pas le vôtre.
   gr: >-
     Nein... Du siehst aus wie er, aber...{:delay B9 00}{:clear }Dein Herz ist nicht Dein eigenes.
   en: >-

@@ -4493,6 +4493,17 @@
     Roxas:
 
     The ship should be at Isla de Muerta.
+- id: 17199
+  fr: >-
+    Valider ces paramètres? {:color #F0F00080} ROXAS COMPET OK!
+  gr: >-
+    Mit diesen Einstellungen beginnen? {:color #F0F00080} ROXAS COMPET OK!
+  it: >-
+    Vuoi giocare con queste impostazioni? {:color #F0F00080} ROXAS COMPET OK!
+  sp: >-
+    ¿Quieres comenzar con esta configuración?{:color #F0F00080} ROXAS COMPET OK!
+  en: >-
+    Begin with these settings? {:color #F0F00080} ROXAS COMPET OK!
 - id: 17395
   fr: >-
     Roxas :
