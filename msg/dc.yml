@@ -288,102 +288,91 @@
     Ven...
 - id: 21410
   fr: >-
-    Ventus ?{:delay 73 00}{:clear }C'est moi...
+    Est-ce toi...?{:delay 73 00}{:clear }Ventus?
   gr: >-
-    Ventus?{:delay 73 00}{:clear }Ich bin´s...
+    Bist Du das...?{:delay 73 00}{:clear }Ventus?
   it: >-
-    Ventus ?{:delay 73 00}{:clear }Sono io...
+    Sei tu...?{:delay 73 00}{:clear }Ventus?
   sp: >-
-    ¿Ventus?{:delay 73 00}{:clear }Soy yo...
+    ¿Eres tú...?{:delay 73 00}{:clear }Ventus?
   en: >-
-    Ventus?{:delay 73 00}{:clear }It's me...
+    Is that you...?{:delay 73 00}{:clear }Ventus?
 - id: 21411
   fr: >-
-    Non ce n'est pas toi...{:delay B9 00}{:clear }Tu lui ressembles beaucoup...
+    Non... Vous lui ressemblez, mais...{:delay B9 00}{:clear }Votre cœur n'est pas le vôtre.
   gr: >-
-    Nein, du bist es nicht...{:delay B9 00}{:clear }aber du siehst ihm sehr ähnlich...
-  it: >-
-    No, non sei tu...{:delay B9 00}{:clear }Gli assomigli molto...
-  sp: >-
-    No, no eres él...{:delay B9 00}{:clear }Te pareces mucho a él...
+    Nein... Du siehst aus wie er, aber...{:delay B9 00}{:clear }Dein Herz ist nicht Dein eigenes.
   en: >-
-    No, it's not you...{:delay B9 00}{:clear }You look a lot like him...
+    No...You look like him, but...{:delay B9 00}{:clear }Your heart isn't your own.
+  it: >-
+    No... Gli assomigli, ma...{:delay B9 00}{:clear }Il tuo cuore non è il tuo.
+  sp: >-
+    No... Te pareces a él, pero...{:delay B9 00}{:clear }Tu corazón no es el tuyo.
 - id: 21412
   fr: >-
-    Je ne comprends pas.{:delay 69 00}{:clear }Mais qu'avez-vous fait ?
+    C'est fracturé... Obscurci.{:delay 99 00}{:clear }Qu'est-ce qui t'est arrivé?
   gr: >-
-    Ich verstehe es nicht.{:delay 69 00}{:clear }Was hast du getan?
-  it: >-
-    Non capisco. {:delay 69 00}{:clear }Ma cosa hai fatto?
-  sp: >-
-    No lo entiendo.{:delay 73 00}{:clear }¿Qué has hecho?
+    Es ist gebrochen... verfinstert.{:delay 99 00}{:clear }Was ist mit Dir geschehen?
   en: >-
-    I don't understand.{:delay 69 00}{:clear }What have you done?
-- id: 21414
+    It's fractured...darkened.{:delay 99 00}{:clear }What's happened to you?
+  it: >-
+    È fratturato... oscurato.{:delay 99 00}{:clear }Cosa ti è successo?
+  sp: >-
+    Está fracturado... Oscureció.{:delay 99 00}{:clear }¿Qué te ha pasado?
+- id: 21413
   fr: >-
-    Où est mon ami ?
+    Se pourrait-il que...
   gr: >-
-    Wo ist mein Freund?
-  it: >-
-    Dov'è il mio amico?
-  sp: >-
-    ¿Dónde está mi amigo?
+    Könnte es sein...
   en: >-
-    Where is my friend?
+    Could it be...
+  it: >-
+    Potrebbe essere...
+  sp: >-
+    ¿Podría ser...
 - id: 21415
   fr: >-
-    Que lui as-tu fait ?
+    Vous contrôle-t-il aussi?
   gr: >-
-    Was hast du ihm angetan?
-  it: >-
-    Cosa gli hai fatto?
-  sp: >-
-    ¿Qué le has hecho?
+    Hat er auch von Dir Besitz ergriffen?
   en: >-
-    What did you do to him?
-- id: 21417
+    Has he taken you, too?
+  it: >-
+    Si è forse impossessato anche di te?
+  sp: >-
+    ¿Él también te está controlando?
+- id: 21420
   fr: >-
-    Ventus...
+    Cette lumière... La lumière de mon ami...{:delay 78 00}{:clear }Protège la lumière de Ventus pour moi.
   gr: >-
-    Ventus...
-  it: >-
-    Ventus...
-  sp: >-
-    Ventus...
+    Dieses Licht... es besteht kein Zweifel.{:delay 78 00}{:clear }Kümmere Dich um Ventus Licht für mich.
   en: >-
-    Ventus...
-- id: 21418
-  fr: >-
-    Ventus !
-  gr: >-
-    Ventus!
+    That light...there's no doubt.{:delay 78 00}{:clear }Take care of Ventus' light for me.
   it: >-
-    Ventus!
+    Quella luce... La luce del mio amico...{:delay 78 00}{:clear }Proteggi la luce di Ventus per me.
   sp: >-
-    ¡Ventus!
-  en: >-
-    Ventus!
+    Esta luz... La luz de mi amigo...{:delay 78 00}{:clear }Protege la luz de Ventus para mí.
 - id: 21421
   fr: >-
     {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}Comme on se retrouve,
 
-    toi qui ressemble à Ventus.
+    porteur de lumière et d'obscurité...
   gr: >-
     {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}Und wieder treffen wir uns,
 
-    der Junge der nicht Ventus ist.
+    Halter von Licht und Dunkel...
   it: >-
     {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}Ci incontriamo ancora,
 
-    giovane Eroe del Keyblade.
+    portatori di luce e oscurità......
   sp: >-
     {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}Nos volvemos a encontrar,
 
-    portador de la llave espada que no es Ventus.
+    portador de la llave espada que lleva luz y oscuridad...
   en: >-
     {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}We meet again,
 
-    the one who's not Ventus.
+    wielder of light and darkness...
 - id: 21425
   fr: >-
     {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}Roxas !
