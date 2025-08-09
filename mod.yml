@@ -882,6 +882,61 @@ assets:
     source:
     - name: msg/tr.yml
       language: fr
+- name: msg/us/tt.bar
+  platform: pc
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: tt
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/tt.yml
+      language: en
+- name: msg/sp/tt.bar
+  platform: pc
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: tt
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/tt.yml
+      language: sp
+- name: msg/it/tt.bar
+  platform: pc
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: tt
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/tt.yml
+      language: it
+- name: msg/gr/tt.bar
+  platform: pc
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: tt
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/tt.yml
+      language: gr
+- name: msg/fr/tt.bar
+  platform: pc
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: tt
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/tt.yml
+      language: fr
 - name: msg/us/wi.bar
   platform: pc
   package: kh2_fifth
@@ -1016,6 +1071,10 @@ assets:
   method: copy
   source:
   - name: bgm\music066.win32.scd
+- name: bgm\music087.win32.scd
+  method: copy
+  source:
+  - name: bgm\music087.win32.scd
 - name: bgm\music088.win32.scd
   method: copy
   source:
