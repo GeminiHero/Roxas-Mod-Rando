@@ -1,6 +1,6 @@
 title: Roxas Mod Rando
 originalAuthor:  Gemini, Napstio, TieuLink,  Mikote, Soraiko
-description: A branch of Napstio's Roxas Mod specially tailored for use with the Kingdom Hearts II Randomizer for OpenKH. Swaps Roxas and Sora, with a ton of easter eggs to make the experience feel complete!
+description: A branch of Napstio's Roxas Mod specially tailored for use with the Kingdom Hearts II Randomizer for OpenKH. Swaps Roxas and Sora, with a ton of easter eggs to make the experience feel complete! Place ABOVE the GoA and Rando Seed, but below any add-on or other aesthetic mods you want to override this!
 assets:
 - name: msg/us/al.bar
   platform: pc
